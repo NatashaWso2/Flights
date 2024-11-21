@@ -1,0 +1,158 @@
+{
+"flights": [
+    {
+        "id": "SN1001",
+        "airline": "Brussels Airlines",
+        "departure_airport": "Brussels Airport",
+        "arrival_airport": "London Heathrow",
+        "departure_time": "2024-11-20T06:30:00Z",
+        "arrival_time": "2024-11-20T07:15:00Z",
+        "status": "On Time",
+        "passenger_count": 180
+    },
+    {
+        "id": "AF1234",
+        "airline": "Air France",
+        "departure_airport": "Paris Charles de Gaulle",
+        "arrival_airport": "Brussels Airport",
+        "departure_time": "2024-11-20T09:30:00Z",
+        "arrival_time": "2024-11-20T10:15:00Z",
+        "status": "Delayed",
+        "delay_reason": "Weather Conditions",
+        "passenger_count": 160
+    },
+    {
+        "id": "LH456",
+        "airline": "Lufthansa",
+        "departure_airport": "Frankfurt Airport",
+        "arrival_airport": "John F. Kennedy International Airport",
+        "departure_time": "2024-11-20T08:45:00Z",
+        "arrival_time": "2024-11-20T14:30:00Z",
+        "status": "On Time",
+        "passenger_count": 250
+    },
+    {
+        "id": "BA789",
+        "airline": "British Airways",
+        "departure_airport": "London Heathrow",
+        "arrival_airport": "Dubai International Airport",
+        "departure_time": "2024-11-20T10:15:00Z",
+        "arrival_time": "2024-11-20T21:00:00Z",
+        "status": "On Time",
+        "passenger_count": 300
+    },
+    {
+        "id": "EK202",
+        "airline": "Emirates",
+        "departure_airport": "Dubai International Airport",
+        "arrival_airport": "Singapore Changi Airport",
+        "departure_time": "2024-11-20T12:30:00Z",
+        "arrival_time": "2024-11-20T18:00:00Z",
+        "status": "Delayed",
+        "delay_reason": "Technical Issues",
+        "passenger_count": 280
+    },
+    {
+        "id": "QF32",
+        "airline": "Qantas",
+        "departure_airport": "Sydney Kingsford Smith Airport",
+        "arrival_airport": "Los Angeles International Airport",
+        "departure_time": "2024-11-20T18:45:00Z",
+        "arrival_time": "2024-11-21T09:30:00Z",
+        "status": "On Time",
+        "passenger_count": 350
+    },
+    {
+        "id": "DL305",
+        "airline": "Delta Airlines",
+        "departure_airport": "Atlanta Hartsfield-Jackson International Airport",
+        "arrival_airport": "Chicago O'Hare International Airport",
+        "departure_time": "2024-11-20T14:00:00Z",
+        "arrival_time": "2024-11-20T15:30:00Z",
+        "status": "On Time",
+        "passenger_count": 180
+    },
+    {
+        "id": "AA45",
+        "airline": "American Airlines",
+        "departure_airport": "Dallas/Fort Worth International Airport",
+        "arrival_airport": "Denver International Airport",
+        "departure_time": "2024-11-20T07:00:00Z",
+        "arrival_time": "2024-11-20T08:45:00Z",
+        "status": "On Time",
+        "passenger_count": 220
+    },
+    {
+        "id": "CX807",
+        "airline": "Cathay Pacific",
+        "departure_airport": "Hong Kong International Airport",
+        "arrival_airport": "Tokyo Narita International Airport",
+        "departure_time": "2024-11-20T03:00:00Z",
+        "arrival_time": "2024-11-20T07:00:00Z",
+        "status": "On Time",
+        "passenger_count": 290
+    },
+    {
+        "id": "VA233",
+        "airline": "Virgin Australia",
+        "departure_airport": "Melbourne Tullamarine Airport",
+        "arrival_airport": "Auckland Airport",
+        "departure_time": "2024-11-20T10:30:00Z",
+        "arrival_time": "2024-11-20T15:00:00Z",
+        "status": "Cancelled",
+        "cancellation_reason": "Operational Reasons",
+        "passenger_count": 180
+    },
+    {
+        "id": "AC451",
+        "airline": "Air Canada",
+        "departure_airport": "Toronto Pearson International Airport",
+        "arrival_airport": "Vancouver International Airport",
+        "departure_time": "2024-11-20T12:00:00Z",
+        "arrival_time": "2024-11-20T14:30:00Z",
+        "status": "On Time",
+        "passenger_count": 200
+    },
+    {
+        "id": "NZ102",
+        "airline": "Air New Zealand",
+        "departure_airport": "Auckland Airport",
+        "arrival_airport": "Christchurch Airport",
+        "departure_time": "2024-11-20T11:00:00Z",
+        "arrival_time": "2024-11-20T12:20:00Z",
+        "status": "On Time",
+        "passenger_count": 150
+    },
+    {
+        "id": "UA789",
+        "airline": "United Airlines",
+        "departure_airport": "San Francisco International Airport",
+        "arrival_airport": "Seattle-Tacoma International Airport",
+        "departure_time": "2024-11-20T16:00:00Z",
+        "arrival_time": "2024-11-20T17:45:00Z",
+        "status": "Delayed",
+        "delay_reason": "Aircraft Maintenance",
+        "passenger_count": 170
+    },
+    {
+        "id": "SA300",
+        "airline": "South African Airways",
+        "departure_airport": "Cape Town International Airport",
+        "arrival_airport": "Johannesburg O.R. Tambo International Airport",
+        "departure_time": "2024-11-20T14:15:00Z",
+        "arrival_time": "2024-11-20T16:00:00Z",
+        "status": "On Time",
+        "passenger_count": 190
+    },
+    {
+        "id": "JL98",
+        "airline": "Japan Airlines",
+        "departure_airport": "Tokyo Haneda Airport",
+        "arrival_airport": "Osaka Kansai International Airport",
+        "departure_time": "2024-11-20T13:45:00Z",
+        "arrival_time": "2024-11-20T14:55:00Z",
+        "status": "On Time",
+        "passenger_count": 140
+    }
+]
+}
